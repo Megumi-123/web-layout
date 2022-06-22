@@ -1,0 +1,93 @@
+{
+  "id": "3475258",
+  "name": "Newworld",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1360",
+      "name": "新浪微博",
+      "font_class": "xinlangweibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3338428",
+      "name": "互联网",
+      "font_class": "hulianwang",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "4936984",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "27402571",
+      "name": "推特",
+      "font_class": "tuite",
+      "unicode": "ee49",
+      "unicode_decimal": 61001
+    },
+    {
+      "icon_id": "1010087",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "2678620",
+      "name": "旗子",
+      "font_class": "qizi",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "5201453",
+      "name": "花 (6)",
+      "font_class": "hua",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "6665561",
+      "name": "体育世界",
+      "font_class": "airudiantubiaohuizhi-zhuanqu_tiyushijie",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "7991696",
+      "name": "图书",
+      "font_class": "tushu",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "8605745",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "12975230",
+      "name": "机制",
+      "font_class": "jizhi",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    }
+  ]
+}
